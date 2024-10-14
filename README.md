@@ -1,4 +1,4 @@
-h1 align="center">Hi 👋, I'm Pablo Peralta</h1>
+Hi 👋, I'm Pablo Peralta
 <h3 align="center">A passionate DataScience Student from Medellin,Colombia</h3>
 
 <h3 align="left">Connect with me:</h3>
