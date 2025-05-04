@@ -11,5 +11,5 @@
 
 <h3 align="center">Thanks for visiting!</h3>
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Pornhub-logo.svg" alt="Pornhub Logo" width="120"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Pornhub-logo.svg" alt="Pornhub Logo" width="240"/>
 </p>
