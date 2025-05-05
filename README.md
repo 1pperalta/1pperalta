@@ -13,10 +13,3 @@
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Pornhub-logo.svg" alt="Pornhub Logo" width="240"/>
 </p>
-
-<style>
-@keyframes wave {
-  0% { transform: rotate(0deg) scale(1.02); }
-  100% { transform: rotate(1deg) scale(1.05); }
-}
-</style>
