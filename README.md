@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pablo Peralta</h1>
-<h3 align="center">The gayest data scientist in Colombia</h3>
+<h3 align="center">Data Scientist</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -11,5 +11,4 @@
 
 <h3 align="center">Thanks for visiting!</h3>
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Pornhub-logo.svg" alt="Pornhub Logo" width="240"/>
 </p>
