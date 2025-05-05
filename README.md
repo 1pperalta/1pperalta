@@ -12,8 +12,6 @@
 <h3 align="center">Thanks for visiting!</h3>
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Pornhub-logo.svg" alt="Pornhub Logo" width="240"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Gay_Pride_Flag.svg/320px-Gay_Pride_Flag.svg.png" 
-       alt="Gay Pride Flag" width="240" style="animation: wave 2s infinite alternate ease-in-out; border-radius: 10px;"/>
 </p>
 
 <style>
