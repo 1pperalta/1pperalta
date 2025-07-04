@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pablo Peralta</h1>
-<h3 align="center">DataEngineer</h3>
+<h3 align="center"> Becoming a DataEngineer</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
