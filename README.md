@@ -17,9 +17,6 @@
   <a href="https://spark.apache.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" alt="spark" width="40" height="40"/>
   </a>
-  <!-- Apache Kafka -->
-  <a href="https://kafka.apache.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" alt="kafka" width="40" height="40"/>
   </a>
   <!-- Databricks -->
   <a href="https://databricks.com/" target="_blank">
@@ -48,10 +45,6 @@
   <!-- Git -->
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-  </a>
-  <!-- Linux -->
-  <a href="https://www.linux.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
   </a>
   <!-- Jupyter -->
   <a href="https://jupyter.org/" target="_blank">
