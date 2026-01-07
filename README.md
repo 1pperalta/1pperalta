@@ -7,7 +7,7 @@ Pursuing a Data Science Engineering program and building the bridge between data
 ## Tech Stack
 
 **Languages & Frameworks**  
-Python, FastAPI
+Python, FastAPI, SQL
 
 **ML & Data**  
 MLflow, Apache Spark, Databricks
