@@ -4,6 +4,8 @@ Aspiring MLOps Engineer | ML Engineer | Data Engineer
 
 Pursuing a Data Science Engineering program and building the bridge between data, models, and production.
 
+Certified By Databricks as a Data Engineer
+
 ## Tech Stack
 
 **Languages & Frameworks**  
