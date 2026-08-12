@@ -6,7 +6,8 @@ Pursuing a Data Science Engineering program and building the bridge between data
 
 Certifications
 - Data Engineer **Databricks** Associate
-- Cloud Practitioner **AWS** 
+- Cloud Practitioner **AWS**
+- Data Engineer Professional **GCP** 
 
 ## Tech Stack
 
